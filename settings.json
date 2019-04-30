@@ -1,5 +1,6 @@
 {
   "settings": {
+    "onlyForOrgMembers": true
   },
   "rules": {
     "pull_request": "orta/peril-bootstrap@dangerfiles/pr.js",
