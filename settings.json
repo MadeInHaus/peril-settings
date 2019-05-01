@@ -10,7 +10,7 @@
     "MadeInHaus/haus-dark-side#test-danger": {
       "pull_request": "dangerfile.js"
     },
-    "MadeInHaus/test-project-danger ": {
+    "MadeInHaus/test-project-danger": {
       "pull_request": "dangerfile.js"
     }
   }
