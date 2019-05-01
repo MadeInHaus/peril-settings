@@ -8,7 +8,7 @@
   },
   "repos": {
     "MadeInHaus/test-project-danger": {
-      "pull_request": "dangerfile.js"
+      "pull_request.opened, pull_request.synchronize": "dangerfile.js"
     }
   }
 }
